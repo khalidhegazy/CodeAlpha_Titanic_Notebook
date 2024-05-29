@@ -14,10 +14,6 @@ scikit-learn
 matplotlib
 seaborn
 
-Usage
-Clone the repository:
-git clone https://github.com/khalidhegazy/Titanic-Notebook
-
 Models
 The notebook implements three different machine learning models to predict the survival of Titanic passengers.
 
